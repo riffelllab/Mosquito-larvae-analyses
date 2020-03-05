@@ -15,6 +15,10 @@ Larval behavior analysis code for the paper *Live calcium imaging of Aedes aegyp
 <sup>* M.B., J.S, and E.K.L contributed equally to this work</sup>
 <sup>† To whom all correspondence should be addressed</sup>
 
+## Data availability
+
+All data, code, and original video files for the behavior section of this manuscript is provided free at this [Mendeley Data repository](https://data.mendeley.com/datasets/nch5zsh69z/1).
+
 ## Repository contents
 
 #### Figure generation code
